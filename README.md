@@ -12,3 +12,4 @@ Results: Highlights that Sales (29.2%) and Overtime workers (25.3%) are the high
 
 Next Steps: Recommends a $2,500/employee intervention program and an audit of overtime practices in the Sales department.
 
+<img src="https://github.com/AndreTownsend/hrattrition/blob/main/Code_Generated_Image.png?raw=true" alt="Code_Generated_Image.png"/>
