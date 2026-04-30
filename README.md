@@ -130,6 +130,6 @@ Data Analytics Portfolio
 
 ---
 
-## 💡 Final Insight
+## Final Insight
 Employee attrition is not just an HR issue — it is a **financial and strategic problem**.  
 Organizations that proactively identify risk factors and invest in retention will gain a strong competitive advantage.
